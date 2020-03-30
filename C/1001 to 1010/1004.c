@@ -1,4 +1,4 @@
-#include <stdio.h>  
+#include <stdio.h>
 
 int main() {
 	int A, B;
@@ -7,5 +7,5 @@ int main() {
 	int PROD = A * B;
 	printf("PROD = %d\n", PROD);
 
-	return 0;  
+	return 0;
 }

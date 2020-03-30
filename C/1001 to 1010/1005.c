@@ -1,4 +1,4 @@
-#include <stdio.h>  
+#include <stdio.h>
 
 int main() {
 	double A, B;
@@ -7,5 +7,5 @@ int main() {
 	double X = (3.5*A + B*7.5)/11.0;
 	printf("MEDIA = %.5lf\n", X);
 
-	return 0;  
+	return 0;
 }

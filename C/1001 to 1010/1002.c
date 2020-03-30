@@ -1,4 +1,4 @@
-#include <stdio.h>  
+#include <stdio.h>
 
 int main() {
 	const double PI = 3.14159;
@@ -8,5 +8,5 @@ int main() {
 	A = PI*R*R;
 	printf("A=%.4lf\n", A);
 
-	return 0;  
+	return 0;
 }

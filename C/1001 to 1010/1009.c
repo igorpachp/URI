@@ -9,5 +9,5 @@ int main() {
 	scanf("%lf %lf", &S, &V);
 	printf("TOTAL = R$ %.2lf\n", S + V*C);
 
-	return 0;  
+	return 0;
 }

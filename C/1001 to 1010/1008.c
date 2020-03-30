@@ -7,5 +7,5 @@ int main() {
 	scanf("%d %d %lf", &N, &H, &V);
 	printf("NUMBER = %d\nSALARY = U$ %.2lf\n", N, H*V);
 
-	return 0;  
+	return 0;
 }
